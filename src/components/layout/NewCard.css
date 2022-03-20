@@ -1,0 +1,14 @@
+.NewCard{
+    flex: 1;
+    border: 2px solid #000;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.NewCard .NewForm{
+    flex: 1;
+    padding: 15px 0;
+    background-color: #54bb42;
+}
+

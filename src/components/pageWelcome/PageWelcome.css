@@ -1,0 +1,39 @@
+
+
+.Page{
+    color: #FFFFFF;
+    background-color: #54bb42;
+}
+
+.Page h1{
+    margin-top: 70px;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+.Descripition{
+    margin-top: 30px;
+}
+
+.Descripition p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.Page p{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 1rem;
+}
+
+.Page button{
+    margin-top: 10px;
+    height: 45px;
+    width: 22%;
+    border: 2px solid #FFF;
+    border-radius: 44%;
+    background-color: Transparent;
+    color: #FFF
+}
